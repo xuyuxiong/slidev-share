@@ -3,7 +3,7 @@
   "private": true,
   "homepage": "https://xuyuxiong.github.io/slidev-share",
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /slidev-share/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
