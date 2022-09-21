@@ -2,6 +2,10 @@
 theme: penguin
 ---
 
+---
+download: true
+---
+
 # 什么是Node.js?
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
